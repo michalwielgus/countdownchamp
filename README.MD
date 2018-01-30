@@ -1,3 +1,3 @@
 # CountdownChamp React APP
 
-Application Created with this tutorial. See demo.
+Application has been created with [a this](https://www.udemy.com/react-js-and-redux-mastering-web-apps/learn/v4/content) tutorial. See [a demo](https://webwarriors.pl/michalwielgus).
