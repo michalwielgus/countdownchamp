@@ -1,3 +1,3 @@
-#CountdownChamp React APP
+# CountdownChamp React APP
 
 Application Created with this tutorial. See demo.
