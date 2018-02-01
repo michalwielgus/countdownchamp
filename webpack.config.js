@@ -1,3 +1,6 @@
+var path = require('path');
+var react = require('react')
+
 module.exports = {
     entry: ['./src/main.js'],
     output: {
